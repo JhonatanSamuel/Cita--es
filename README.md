@@ -1,7 +1,7 @@
 
 <h1>Citações</h1>
 <br>
-<a href="https://jo-ken-po-ten.vercel.app/">Acessar a página</a>
+<a href="https://citacoes-inspiradoras.vercel.app/">Acessar a página</a>
 
 <br>
 <br>
